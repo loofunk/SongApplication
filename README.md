@@ -1,13 +1,13 @@
 # SongApplication
 
-This is technical test
-For full test break down please view InteractWithAPIs.pdf
+This is a technical test
+For a full test break down please view InteractWithAPIs.pdf included in the repository
 
-The application takes in your favourite band or artists name (i.e prince) and will find out what the average numbers of words in their songs is
+The application takes in your favourite band or artists name (i.e prince) and will find out what the average numbers of words in their songs is.
 
-##Cloning the repo
+## Cloning the repo
 
-clone the repo: https://github.com/loofunk/SongApplication.git
+Clone the repo using: https://github.com/loofunk/SongApplication.git
 
 ## Running the application
 
@@ -16,15 +16,16 @@ clone the repo: https://github.com/loofunk/SongApplication.git
 3. Right click at the top of the solution and click "Restore Nuget Packages" - this will restore the Nuget Packages required to run the project
 4. Click the play button
 5. The project should load up a console window with instructions on what to do
-6. Type in your favourite arists name in (i.e prince) 
+6. Type in your favourite artists name in (i.e prince) 
 7. Hit the Enter button
 8. The program will now communicate with the services
 9. You will be presented with the average numbers of words in the songs of your favourite artist
 
 ## API's used:
 
-https://musicbrainz.org/doc/MusicBrainz_API
-https://lyricsovh.docs.apiary.io/#reference
+1. MusicBrainz - https://musicbrainz.org/doc/MusicBrainz_API
+
+2. LyricsOvh - https://lyricsovh.docs.apiary.io/#reference
 
 ## API formatting
 
