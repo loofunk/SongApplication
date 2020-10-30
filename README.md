@@ -11,7 +11,7 @@ Clone the repo using: https://github.com/loofunk/SongApplication.git
 
 ## Running the application
 
-1. Open the project in Visual Studio
+1. Open the project in Visual Studio by opening SongApplication/SongAppication.sln
 2. Ensure "SongApplication" is set as your start up project
 3. Right click at the top of the solution and click "Restore Nuget Packages" - this will restore the Nuget Packages required to run the project
 4. Click the play button
