@@ -89,8 +89,15 @@ C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongAppl
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.csprojAssemblyReference.cache
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.AssemblyInfoInputs.cache
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.AssemblyInfo.cs
-C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.csproj.CoreCompileInputs.cache
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.csproj.CopyComplete
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.dll
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.pdb
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.genruntimeconfig.cache
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\SongApplication.exe
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\SongApplication.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\SongApplication.pdb
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication.Tests\obj\Debug\netcoreapp3.1\SongApplication.Tests.csproj.CoreCompileInputs.cache

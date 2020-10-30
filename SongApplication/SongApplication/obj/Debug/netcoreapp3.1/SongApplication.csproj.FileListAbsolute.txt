@@ -7,7 +7,11 @@ C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongAppl
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.csprojAssemblyReference.cache
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.AssemblyInfoInputs.cache
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.AssemblyInfo.cs
-C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.csproj.CoreCompileInputs.cache
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.dll
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.pdb
 C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.genruntimeconfig.cache
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.csproj.CopyComplete
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.csproj.CoreCompileInputs.cache
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll

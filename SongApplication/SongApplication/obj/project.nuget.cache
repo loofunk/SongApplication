@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3hx4DYhqQSGQpK54TLrwENUvdsuoCJkeJ8sjGDlhrRqkWdHVoQVLee5THCg6umXMbP2Xqvi1cMyjvz30rrV6FQ==",
+  "dgSpecHash": "Rhr+BoRXuqIZmYgnc0R4wMDEeX+F78Vhf+BYtip0uOytson3Xceueh0RC5HxQZ3tFaEbWmG2RLoFyS6VIJpFgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\louis.dasouki\\Documents\\GitHub\\SongApplication\\SongApplication\\SongApplication\\SongApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\louis.dasouki\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\louis.dasouki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\louis.dasouki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
