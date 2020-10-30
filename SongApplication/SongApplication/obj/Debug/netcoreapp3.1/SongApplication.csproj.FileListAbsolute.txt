@@ -1,0 +1,13 @@
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\SongApplication.exe
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\SongApplication.deps.json
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\SongApplication.runtimeconfig.json
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\SongApplication.runtimeconfig.dev.json
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\SongApplication.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\bin\Debug\netcoreapp3.1\SongApplication.pdb
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.csprojAssemblyReference.cache
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.AssemblyInfoInputs.cache
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.AssemblyInfo.cs
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.csproj.CoreCompileInputs.cache
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.dll
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.pdb
+C:\Users\louis.dasouki\Documents\GitHub\SongApplication\SongApplication\SongApplication\obj\Debug\netcoreapp3.1\SongApplication.genruntimeconfig.cache
